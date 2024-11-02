@@ -56,14 +56,14 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuu300&theme=radical&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuu300&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishuu300&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishuu300&bg_color=0d1117&color=f0f0f0&line=38d252&point=ffffff&area=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Activity Graph" />
 </div>
 
 <br>
