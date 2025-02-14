@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishuu300&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=rishuu300&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
