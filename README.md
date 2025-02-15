@@ -73,16 +73,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rishuu300&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
-
 ## 🔝 Top Contributed Repo
 
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=rishuu300&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</div>
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
