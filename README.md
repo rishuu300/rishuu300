@@ -95,6 +95,3 @@
 
 <br>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
----
-[![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=rishuu300.rishuu300)](https://github.com/rishuu300/rishuu300)
